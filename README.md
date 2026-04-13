@@ -1,4 +1,4 @@
-rea# | Informática - Logística (1º Semestre) | FATEC PROF. JESSEN VIDAL
+# | Informática - Logística (1º Semestre) | FATEC PROF. JESSEN VIDAL
 Repositório com atividades desenvolvidas nas aulas de informática ao longo do curso de Logística.
 
 # | Objetivo
