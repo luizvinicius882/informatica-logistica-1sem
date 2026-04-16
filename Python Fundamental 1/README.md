@@ -9,3 +9,6 @@ Linguagem Python
 Apresentação dos conceitos iniciais de programação e introdução à linguagem Python, com foco na compreensão da estrutura básica de um programa.
 
 Ao final do módulo, foram realizados testes práticos utilizando a função print para exibição de informações.
+
+* |certificado do módulo -1
+* 
