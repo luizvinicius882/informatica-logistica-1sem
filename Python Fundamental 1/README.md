@@ -10,5 +10,5 @@ Apresentação dos conceitos iniciais de programação e introdução à linguag
 
 Ao final do módulo, foram realizados testes práticos utilizando a função print para exibição de informações.
 
-* |certificado do módulo -1
+* |certificado do módulo - 1
 * ![certificado](Certificado_módulo-1.jpg)
