@@ -1,8 +1,9 @@
 # | Informática - Logística (1º Semestre) | FATEC PROF. JESSEN VIDAL
-Repositório com atividades desenvolvidas nas aulas de informática ao longo do curso de Logística.
+Repositório com atividades desenvolvidas nas aulas de informática do curso de Logística.
 
 # | Objetivo
-Organizar e documentar o aprendizado ao longo das aulas, utilizando ferramentas como Excel e Canva para análise de dados e apresentações.
+Organizar e documentar os aprendizados ao longo das aulas, utilizando ferramentas como Excel para análise de dados e colocar em prática.
 
 # | Ferramentas utilizadas
-Microsoft Excel
+Microsoft Excel.
+
