@@ -1,4 +1,4 @@
-# Aula 06 - Gráfico e tabela Dinâmico
+# Aula 06 - Gráfico e tabela Dinâmica
 
 Criação de gráfico e tabela dinâmico utilizando dados do governo aberto sobre multas 
 
