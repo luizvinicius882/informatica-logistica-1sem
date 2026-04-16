@@ -3,3 +3,5 @@
 Desenvolvimento de uma tabela no Excel para organização e análise de dados.
 
 Usando a função "PROCV" para busca de informações.
+
+![tabela](tabela-aula.2.png)
