@@ -5,5 +5,5 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 Organizar e documentar os aprendizados ao longo das aulas, utilizando ferramentas como Excel para análise de dados e colocar em prática.
 
 # | Ferramentas utilizadas*
-*Microsoft Excel.
+* Microsoft Excel.
 
