@@ -3,7 +3,7 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 
 # | Conteúdo assimilado
 * [Aula 02 - Tabela no Excel]
-*
+* 
 *
 *
 *
