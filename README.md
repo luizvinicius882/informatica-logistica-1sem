@@ -1,4 +1,4 @@
-# | FATEC Informática - Logística (1º Semestre) | PROFESSORA.JESSEN VIDAL*
+# | FATEC Informática - Logística (1º Semestre) | PROF.JESSEN VIDAL*
 Acervo com atividades desenvolvidas nas aulas de informática do curso de Logística.
 
 # | Objetivo*
