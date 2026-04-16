@@ -3,3 +3,5 @@
 Criação de nova tabela e gráfico utilizando diferentes dados.
 
 Uso de tabelas e gráficos dinâmicos com as funções "SOMASE" e "CONT.SE"
+
+![Gráfico](Gráfico_aula.3.jpg)
