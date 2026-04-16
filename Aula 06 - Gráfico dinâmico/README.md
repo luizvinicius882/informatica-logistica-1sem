@@ -4,3 +4,4 @@ Criação de gráfico dinâmico utilizando dados do governo sobre multas
 
 Aplicação das funções "SOMASE"
 
+![grafico-tabela](IMG-20260409-WA0024(1).jpg)
