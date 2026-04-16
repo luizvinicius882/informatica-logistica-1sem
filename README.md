@@ -2,7 +2,7 @@
 Acervo com atividades desenvolvidas nas aulas de informática do curso de Logística.
 
 # | Conteúdo assimilado*
-*
+* Aula 02 - Tabela no Excel
 *
 *
 *
