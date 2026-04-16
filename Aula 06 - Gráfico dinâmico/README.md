@@ -1,6 +1,6 @@
-# Aula 06 - Gráfico Dinâmico
+# Aula 06 - Gráfico e tabela Dinâmico
 
-Criação de gráfico dinâmico utilizando dados do governo aberto sobre multas 
+Criação de gráfico e tabela dinâmico utilizando dados do governo aberto sobre multas 
 
 Aplicação das funções "SOMASE"
 
