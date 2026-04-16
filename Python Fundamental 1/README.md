@@ -1,7 +1,7 @@
 # Curso Python Fundamental 1
 
 # Sobre o curso
-Curso introdutório de Python com foco nos fundamentos da programação e no desenvolvimento da lógica computacional
+Curso fundamental Python com foco nos fundamentos da programação e no desenvolvimento da lógica computacional
 
 # Módulo 01 Introdução à Programação e à 
 
