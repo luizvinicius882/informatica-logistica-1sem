@@ -1,4 +1,4 @@
-# Aula 07 - Gráfico Dinâmico
+# Aula 07 - Gerando perguntas
 
 Criação de tabela dinâmica utilizando dados aberto do governo para desenvolver perguntas 
 
