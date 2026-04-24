@@ -1,4 +1,4 @@
-# Aula 08 - Introdução power bi 
+# Aula 08 - Introdução ao power bi 
 
-Criação de graficos no power bi utilizando dados aberto sp 
+elaboração de graficos usando o programa power bi utilizando dados aberto sp 
 Meio ambiente/autos de infração ambiental.
