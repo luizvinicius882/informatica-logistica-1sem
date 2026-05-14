@@ -1,6 +1,7 @@
 
 # Aula 10 - Power bi
-usando os powerbi com os *dados abertos sp
+
+ usando os powerbi com os *dados abertos sp
 
 trabalho-emprego-formal-municipios do estado de são Paulo* para respondendo as perguntas que a professora  
 
@@ -8,4 +9,4 @@ trabalho-emprego-formal-municipios do estado de são Paulo* para respondendo as 
 qual ano e mês o saldo de movimentação foi menor ?
 
 resposta: o ano foi o 2020 e o mês foi abril
-
+![grafico](IMG-20260514-WA0010.jpg)
