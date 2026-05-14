@@ -1,20 +1,27 @@
 
 # Aula 10 - Power bi
 
- usando os powerbi com os *dados abertos sp
+ usando o powerbi com os Dados abertos sp
 
-trabalho-emprego-formal-municipios do estado de são Paulo* para respondendo as perguntas que a professora  
+trabalho-emprego-formal-municipios do estado de são Paulo
 
-1° pergunta 
- qual ano e mês o saldo de movimentação foi menor ?
+para responder as perguntas que a professora gerou 
+
+1° PERGUNTA 
+qual ano e mês o saldo de movimentação foi menor ?
 
 resposta: o ano foi o 2020 e o mês foi abril.
 ![grafico](IMG-20260514-WA0010.jpg)
 
-2° pergunta 
- qual sexo possui o maior saldo de movimentação em cada ano ? 
+2° PERGUNTA 
+qual sexo possui o maior saldo de movimentação em cada ano ? 
 
 resposta: não possui sexo para comparações.
 
 -------------------------------------------
+ usando o powerbi com os Dados abertos sp
+
+trabalho-emprego-formal-municipios do estado de são Paulo 
+
+para gerar e responder as perguntas que foram geradas por nós alunos. 
 
