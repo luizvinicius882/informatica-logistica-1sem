@@ -14,6 +14,7 @@ resposta: o ano foi o 2020 e o mês foi abril.
 2° pergunta 
  qual sexo possui o maior saldo de movimentação em cada ano ? 
 
- resposta: não possui sexo para comparações.
+resposta: não possui sexo para comparações.
+
 -------------------------------------------
 
