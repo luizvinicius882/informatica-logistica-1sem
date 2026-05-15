@@ -2,8 +2,9 @@
 Acervo com atividades desenvolvidas nas aulas de informática do curso de Logística.
 
 # conteúdo do curso 
-[Aula 02 - Tabela no Excel](./Aula%2002%20-%20Tabela%20no%20Excel)
-[Aula 03 - Gráfico no Excel](./Aula%2003%20-%20Gráfico%20no%20Excel)
+* [Aula 02 - Tabela no Excel](./Aula%2002%20-%20Tabela%20no%20Excel)
+
+* [Aula 03 - Gráfico no Excel](./Aula%2003%20-%20Gráfico%20no%20Excel)
 
 
 
