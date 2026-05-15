@@ -20,7 +20,7 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 
 * [Aula 10 - Elaborando Perguntas Powerbi ](./Aula%2010%20-%20powerbi)
 
-* [Aula 11 - Introdução à Regressão linear](./Aula%2011%20-%20Regressão%20linear)
+* [Aula 11 - Introdução à Regressão linear Excel](./Aula%2011%20-%20Regressão%20linear)
 
 # | Certificados de Cursos livres
 * [Certificado - Análise de dados](./Cf_Análise%20de%20dados)
