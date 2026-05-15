@@ -6,3 +6,5 @@ Organizar e documentar os aprendizados ao longo das aulas, utilizando ferramenta
 
 # | Ferramentas utilizadas
 * Microsoft Excel.
+* Powerbi
+* payton (Google.colab)
