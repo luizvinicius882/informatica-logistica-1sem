@@ -22,7 +22,7 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 
 * [Aula 11 - Regressão linear](./Aula%2011%20-%20Regressão%20linear)
 
-# | Cursos e Certificados 
+# | Certificados de Cursos livres
 * [Certificado - Análise de dados](./Cf_Análise%20de%20dados)
 
 * [Certificado - Python Fundamental 1](./Cf_Python%20Fundamental%201)
