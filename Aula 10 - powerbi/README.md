@@ -37,4 +37,4 @@ resposta: o ano foi 2025 e o mês foi fevereiro.
 2° PERGUNTA 
 
 Qual ano e mês teve o menor saldo de admissão?
-![grafico]a(
+![grafico](IMG-20260514-WA0013.jpg)
