@@ -10,6 +10,8 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 
 * [Aula 05 - Gráfico Dinâmico](./Aula%2005%20-%20Gráfico%20Dinâmico)
 
+* [Aula 06 - Gráfico dinâmico](./Aula%2006%20-%20Gráfico%20dinâmico)
+
 
 
 
