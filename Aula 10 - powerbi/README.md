@@ -5,7 +5,7 @@
 
 trabalho-emprego-formal-municipios do estado de são Paulo
 
-para responder as perguntas que a professora gerou 
+para responder 2 perguntas que a professora gerou 
 
 1° PERGUNTA 
 
@@ -25,7 +25,7 @@ usando o powerbi com os Dados abertos sp
 
 trabalho-emprego-formal-municipios do estado de são Paulo 
 
-criando e respondendo 3 perguntas que foram criadas por nós alunos. 
+criando e respondendo 2 perguntas que foram criadas por nós alunos. 
 
 1° PERGUNTA 
 
