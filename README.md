@@ -12,7 +12,7 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 
 * [Aula 06 - Gráfico dinâmico](./Aula%2006%20-%20Gráfico%20dinâmico)
 
-
+* [Aula 07 - elaborando perguntas](./Aula%2007%20-%20elaborando%20perguntas)
 
 
 
