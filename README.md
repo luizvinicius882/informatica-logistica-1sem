@@ -28,7 +28,7 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 * [Certificado - Python Fundamental 1](./Cf_Python%20Fundamental%201)
 
 # | Objetivo
-Organizar e documentar os aprendizados ao longo das aulas, utilizando ferramentas como Excel para análise de dados e colocar em prática.
+Organizar e documentar os aprendizados ao longo das aulas, utilizando ferramentas como Excel, Powerbi e Python para análise de dados e colocar em prática.
 
 # | Ferramentas Utilizadas
 * Microsoft Excel.
