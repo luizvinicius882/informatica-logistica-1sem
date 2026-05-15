@@ -1,7 +1,7 @@
 # | FATEC Informática - Logística (1º Semestre) | PROF.JESSEN VIDAL
 Acervo com atividades desenvolvidas nas aulas de informática do curso de Logística.
 
-# conteúdo do curso 
+# | Conteúdo do Curso 
 * [Aula 02 - Tabela no Excel](./Aula%2002%20-%20Tabela%20no%20Excel)
 
 * [Aula 03 - Gráfico no Excel](./Aula%2003%20-%20Gráfico%20no%20Excel)
@@ -22,7 +22,7 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 
 * [Aula 11 - Regressão linear](./Aula%2011%20-%20Regressão%20linear)
 
-# cursos e certificados 
+# | Cursos e Certificados 
 * [Certificado - Análise de dados](./Cf_Análise%20de%20dados)
 
 * [Certificado - Python Fundamental 1](./Cf_Python%20Fundamental%201)
@@ -30,7 +30,7 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 # | Objetivo
 Organizar e documentar os aprendizados ao longo das aulas, utilizando ferramentas como Excel para análise de dados e colocar em prática.
 
-# | Ferramentas utilizadas
+# | Ferramentas Utilizadas
 * Microsoft Excel.
 * Powerbi
 * payton (Google.colab)
