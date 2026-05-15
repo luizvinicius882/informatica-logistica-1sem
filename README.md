@@ -23,8 +23,9 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 * [Aula 11 - Regressão linear](./Aula%2011%20-%20Regressão%20linear)
 
 # cursos e certificados 
-* [Certificsdo - Análise de dados](./Cf_Análise%20de%20dados)
+* [Certificado - Análise de dados](./Cf_Análise%20de%20dados)
 
+* [certificado 
 # | Objetivo
 Organizar e documentar os aprendizados ao longo das aulas, utilizando ferramentas como Excel para análise de dados e colocar em prática.
 
