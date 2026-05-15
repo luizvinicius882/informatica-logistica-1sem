@@ -4,7 +4,6 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 # | Objetivo
 Organizar e documentar os aprendizados ao longo das aulas, utilizando ferramentas como Excel para análise de dados e colocar em prática.
 
-[Aula 02 - Tabela no Excel]
 
 
 # | Ferramentas utilizadas
