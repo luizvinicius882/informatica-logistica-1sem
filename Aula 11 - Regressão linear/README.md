@@ -5,7 +5,7 @@ Data setet/Temperatura and ice cream sales
 editamos no "Excel"
 para obtermos o Y=0,7083X + 47,843
 
-![Excel](
+![Excel](IMG-20260514-WA0015.jpg)
 
 logo após levamos aos google colap para obtermos a regressão linear e o coeficiente -0,67
 
