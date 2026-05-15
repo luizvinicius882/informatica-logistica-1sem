@@ -25,7 +25,8 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 # cursos e certificados 
 * [Certificado - Análise de dados](./Cf_Análise%20de%20dados)
 
-* [certificado 
+* [certificado - Python Fundamental 1](*/Cf_Python%20Fundamental%201)
+
 # | Objetivo
 Organizar e documentar os aprendizados ao longo das aulas, utilizando ferramentas como Excel para análise de dados e colocar em prática.
 
