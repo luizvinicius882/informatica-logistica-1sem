@@ -6,7 +6,9 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 
 * [Aula 03 - Gráfico no Excel](./Aula%2003%20-%20Gráfico%20no%20Excel)
 
+* [Aula 04 - Tabela e Gráfico Dinâmico](./Aula%2004%20-%20Tabela%20e%20Gráfico Dinâmico)
 
+*
 
 # | Objetivo
 Organizar e documentar os aprendizados ao longo das aulas, utilizando ferramentas como Excel para análise de dados e colocar em prática.
