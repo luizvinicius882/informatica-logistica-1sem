@@ -14,7 +14,7 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 
 * [Aula 07 - elaborando perguntas](./Aula%2007%20-%20elaborando%20perguntas)
 
-* [Aula 08 - Introdução power bi)(./Aula%2008%20-%20Introdução%20power%20bi)
+* [Aula 08 - Introdução power bi](./Aula%2008%20-%20Introdução%20power%20bi)
 
 # | Objetivo
 Organizar e documentar os aprendizados ao longo das aulas, utilizando ferramentas como Excel para análise de dados e colocar em prática.
