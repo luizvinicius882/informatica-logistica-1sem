@@ -21,7 +21,7 @@ qual sexo possui o maior saldo de movimentação em cada ano?
 resposta: não possui sexo para comparações.
 
 -------------------------------------------
-usando o powerbi com os Dados abertos sp
+ Usando o powerbi com os Dados abertos sp
 
 trabalho-emprego-formal-municipios do estado de são Paulo 
 
