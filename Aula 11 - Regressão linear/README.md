@@ -3,3 +3,4 @@
 Dados kaggles
 Data setet/Temperatura and ice cream sales
 editamos no "Excel"
+para obtermos o Y=0,7083X + 47,843
