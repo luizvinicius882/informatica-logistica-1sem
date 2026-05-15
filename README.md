@@ -16,7 +16,7 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 
 * [Aula 08 - Introdução Powerbi](./Aula%2008%20-%20Introdução%20power%20bi)
 
-* [Aula 09 - Powerbi](./Aula%2009%20-%20Powerbi)
+* [Aula 09 - Tratamento de dados Powerbi](./Aula%2009%20-%20Powerbi)
 
 * [Aula 10 -Elaborando Perguntas Powerbi ](./Aula%2010%20-%20powerbi)
 
