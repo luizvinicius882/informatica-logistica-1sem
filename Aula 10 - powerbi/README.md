@@ -32,4 +32,9 @@ criando e respondendo 3 perguntas que foram criadas por nós alunos.
 qual ano e mês teve o maior saldo de admissão?
 
 resposta: o ano foi 2025 e o mês foi fevereiro.
+![grafico](IMG-20260514-WA0011.jpg)
 
+2° PERGUNTA 
+
+Qual ano e mês teve o menor saldo de admissão?
+![grafico]a(
