@@ -8,4 +8,4 @@ Preparação dos Dados: Conexão a diferentes fontes de dados (arquivos locais, 
 * Visualização e Análise: Desenvolvimento de relatórios dinâmicos, escolha dos melhores elementos visuais para cada métrica, design focado em acessibilidade e técnicas de storytelling com dados.
 
 certificado do curso introdução à análise de dados Microsoft 
-!certificado](
+!certificado(Screenshot_20260515_025402_Word.jpg)
