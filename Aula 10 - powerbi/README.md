@@ -1,5 +1,5 @@
 
-# Aula 10 - Power bi
+# Aula 10 - Elaborando perguntas Powerbi
 
  usando o powerbi com os Dados abertos sp
 
