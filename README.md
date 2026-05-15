@@ -18,7 +18,7 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 
 * [Aula 09 - Powerbi](./Aula%2009%20-%20Powerbi)
 
-* [Aula 10 - powerbi](./Aula%2010%20-%20powerbi)
+* [Aula 10 - powerbi elaborando perguntas](./Aula%2010%20-%20powerbi)
 
 * [Aula 11 - Regressão linear](./Aula%2011%20-%20Regressão%20linear)
 
