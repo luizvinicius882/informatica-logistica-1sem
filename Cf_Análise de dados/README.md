@@ -5,5 +5,7 @@ Preparação dos Dados: Conexão a diferentes fontes de dados (arquivos locais, 
 
 * ​Modelagem de Dados: Estruturação dos dados utilizando boas práticas (como o modelo Star Schema), criação de relacionamentos entre tabelas e desenvolvimento de cálculos e métricas avançadas utilizando a linguagem DAX (Data Analysis Expressions).
 
-​* Visualização e Análise: Desenvolvimento de relatórios dinâmicos, escolha dos melhores elementos visuais para cada métrica, design focado em acessibilidade e técnicas de storytelling com dados.
+* Visualização e Análise: Desenvolvimento de relatórios dinâmicos, escolha dos melhores elementos visuais para cada métrica, design focado em acessibilidade e técnicas de storytelling com dados.
 
+certificado do curso introdução à análise de dados Microsoft 
+!certificado](
