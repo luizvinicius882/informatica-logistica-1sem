@@ -16,6 +16,10 @@ Acervo com atividades desenvolvidas nas aulas de informática do curso de Logís
 
 * [Aula 08 - Introdução power bi](./Aula%2008%20-%20Introdução%20power%20bi)
 
+* [Aula 09 - Powerbi](./Aula%2009%20-%20Powerbi)
+
+
+
 # | Objetivo
 Organizar e documentar os aprendizados ao longo das aulas, utilizando ferramentas como Excel para análise de dados e colocar em prática.
 
