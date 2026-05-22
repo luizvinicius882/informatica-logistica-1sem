@@ -2,3 +2,4 @@
 
 Criação de um dashboard no powerbi com os dados de consumo de cerveja x consumo de sorvete 
 
+![dashboard](Aula 06 -
