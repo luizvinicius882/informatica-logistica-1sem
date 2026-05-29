@@ -5,4 +5,5 @@ usando o conjunto de dados Redwine quality
 a) no execel faça um regressão linear simples, considerando cada característica que afeta a qualidade do vinho. qual característica é a mais determinante? 
  R: não tem como definir qual característica é a mais determinante com a regressão linear simples só com a composta. 
 
-![linear](IMG-20260521-WA0011(1).jpg)
+![linear](IMG-20260521-WA0011(1).jpg
+[winequality-red.xlsx-vinicios.xlsx](https://github.com/user-attachments/files/28411287/winequality-red.xlsx-vinicios.xlsx)
