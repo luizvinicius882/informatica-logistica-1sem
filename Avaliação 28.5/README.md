@@ -10,6 +10,6 @@ a resposta da questão  5 que era para eloborar um de (dashboard)
 
 [idade_media_casamento.xlsx](https://github.com/user-attachments/files/28373033/idade_media_casamento.xlsx)
 
-casamentos.25.pbix nome do documento para acesssar o github
+casamentos.25.pbix nome do documento para acesssar o powerbi
 
 ![dasboard](IMG-20260528-WA0014.jpg)
